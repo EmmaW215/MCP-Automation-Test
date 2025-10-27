@@ -1,7 +1,7 @@
 # MCP-Automation-Test
 MCP Automation Test - Connect to GitHub account and retrieve latest commits from repository
 
-Output Result:
+Ollama Output Result:
 
 ![image.png](attachment:ce2101bf-1d7f-478a-843d-db80ee25faac:image.png)
 
